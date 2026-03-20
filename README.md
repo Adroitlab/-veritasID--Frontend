@@ -2,6 +2,7 @@ VeritasID — Frontend
 Your contributions, verified. Your identity, yours.
 
 Table of Contents
+
 ·	Project Overview
 ·	Aim
 ·	Objectives
